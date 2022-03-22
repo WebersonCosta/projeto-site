@@ -1,2 +1,2 @@
 # projeto-site
- Progeto de um site
+ Projeto de um site
